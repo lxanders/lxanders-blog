@@ -4,6 +4,8 @@
   author: 'Alexander Schmidt'
 }
 
+***Update / note***: This was last tested in 2014 with `Jenkins` version *1.x.x*. As I moved on to better integrated / easier to configure CI-systems (I highly recommend `Travis` - while it is possible to achieve nearly the same functionality with `Jenkins`, the time that has to be invested for that does not pay off for every project) this was not used anymore since 2015 and as such is bound to be outdated.
+
 Even now that [Travis CI](https://travis-ci.org/) is having more and more success (one of the main point being its simplicity and ease of use) not everyone has it in his or her technology stack as it is not free for private company use.
 One of the great features `Travis` offers is its integration with GitHub. At least this point can be achieved with [Jenkins](http://jenkins-ci.org/) too by installing some plugins and taking some time to configure it appropriately.
 
